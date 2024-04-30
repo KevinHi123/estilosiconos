@@ -1,0 +1,58 @@
+/*h1{
+    font-size: 60px;
+}
+div{
+    width: 50%;
+    border: 1px solid red;
+}
+div.windows{
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+
+div.whatsapp{
+    text-align: right;
+    color: green;
+    font-size: 100px;
+}
+*/
+/*display inline
+h1, div, p{
+    border: 1px solid red;
+    text-align: center;
+    color: cornflowerblue;
+    padding: 10px;
+    display: block;
+}
+
+span{
+    border: 1px solid blue;
+    display: inline;
+}
+
+a{
+    border: 1px solid red;
+    display: inline;
+}
+
+li{
+    border: 1px solid blue;
+    display: inline;
+}
+*/
+h1{
+    text-align: center;
+    color: crimson;
+}
+
+div{
+    position: static;
+    top: 100px;
+    left: 50px;
+    max-width: 50%;
+    border: 3px solid firebrick;
+    margin: auto;
+}
+
+
